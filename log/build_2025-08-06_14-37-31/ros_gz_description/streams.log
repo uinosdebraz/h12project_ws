@@ -1,0 +1,142 @@
+[0.010s] Invoking command in '/home/jiawen/h12project_ws/build/ros_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jiawen/h12project_ws/src/ros_gz/ros_gz_description -DCMAKE_INSTALL_PREFIX=/home/jiawen/h12project_ws/install/ros_gz_description
+[0.052s] -- The C compiler identification is GNU 11.4.0
+[0.097s] -- The CXX compiler identification is GNU 11.4.0
+[0.103s] -- Detecting C compiler ABI info
+[0.156s] -- Detecting C compiler ABI info - done
+[0.163s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.163s] -- Detecting C compile features
+[0.163s] -- Detecting C compile features - done
+[0.166s] -- Detecting CXX compiler ABI info
+[0.229s] -- Detecting CXX compiler ABI info - done
+[0.236s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.236s] -- Detecting CXX compile features
+[0.236s] -- Detecting CXX compile features - done
+[0.238s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.365s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.437s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.492s] -- Configuring done
+[0.494s] -- Generating done
+[0.495s] -- Build files have been written to: /home/jiawen/h12project_ws/build/ros_gz_description
+[0.500s] Invoked command in '/home/jiawen/h12project_ws/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jiawen/h12project_ws/src/ros_gz/ros_gz_description -DCMAKE_INSTALL_PREFIX=/home/jiawen/h12project_ws/install/ros_gz_description
+[0.502s] Invoking command in '/home/jiawen/h12project_ws/build/ros_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jiawen/h12project_ws/build/ros_gz_description -- -j20 -l20
+[0.534s] Invoked command in '/home/jiawen/h12project_ws/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jiawen/h12project_ws/build/ros_gz_description -- -j20 -l20
+[0.534s] Invoking command in '/home/jiawen/h12project_ws/build/ros_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jiawen/h12project_ws/build/ros_gz_description
+[0.540s] -- Install configuration: ""
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/rrbot
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/rrbot/model.sdf
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/diff_drive
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.sdf
+[0.540s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.config
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/model.sdf
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/model.config
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_hand_link.STL
+[0.541s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_shoulder_yaw_link.STL
+[0.543s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_pinky_proximal.STL
+[0.544s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link19_L.STL
+[0.544s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_ring_intermediate.STL
+[0.544s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link15_L.STL
+[0.545s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_hand_base_link.STL
+[0.546s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_A_link.STL
+[0.546s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_pitch_link.STL
+[0.546s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_thumb_intermediate.STL
+[0.547s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link19_R.STL
+[0.548s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_ring_proximal.STL
+[0.548s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_hip_pitch_link.STL
+[0.549s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_link.STL
+[0.549s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/wrist_yaw_link.STL
+[0.550s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_thumb_proximal.STL
+[0.550s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_pinky_proximal.STL
+[0.551s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_shoulder_yaw_link.STL
+[0.553s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_wrist_pitch_link.STL
+[0.553s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_pitch_link.STL
+[0.553s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_thumb_intermediate.STL
+[0.554s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/torso_link.STL
+[0.555s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_B_rod_link.STL
+[0.555s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link11_L.STL
+[0.555s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_pinky_intermediate.STL
+[0.556s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_pitch_link.STL
+[0.556s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_hip_roll_link.STL
+[0.556s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link12_R.STL
+[0.557s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link18_L.STL
+[0.557s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link20_R.STL
+[0.558s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_elbow_link.STL
+[0.559s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_ring_proximal.STL
+[0.559s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_hip_roll_link.STL
+[0.560s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_B_link.STL
+[0.560s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_thumb_distal.STL
+[0.560s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_shoulder_roll_link.STL
+[0.562s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link22_R.STL
+[0.562s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link17_R.STL
+[0.563s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_hand_link.STL
+[0.563s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link18_R.STL
+[0.563s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_elbow_link.STL
+[0.564s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link20_L.STL
+[0.564s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link15_R.STL
+[0.565s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_hip_yaw_link.STL
+[0.566s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_middle_intermediate.STL
+[0.566s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link17_L.STL
+[0.566s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link22_L.STL
+[0.566s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_roll_link.STL
+[0.567s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_knee_link.STL
+[0.567s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link21_L.STL
+[0.567s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_shoulder_roll_link.STL
+[0.569s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link21_R.STL
+[0.570s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_thumb_proximal_base.STL
+[0.570s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link12_L.STL
+[0.570s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_index_intermediate.STL
+[0.571s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/pelvis.STL
+[0.571s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_pinky_intermediate.STL
+[0.572s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link16_R.STL
+[0.572s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_thumb_distal.STL
+[0.572s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link13_L.STL
+[0.573s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_B_rod_link.STL
+[0.573s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_hip_pitch_link.STL
+[0.574s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/logo_link.STL
+[0.574s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_wrist_roll_link.STL
+[0.575s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_B_link.STL
+[0.575s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_hand_base_link.STL
+[0.577s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_roll_link.STL
+[0.577s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_knee_link.STL
+[0.577s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_shoulder_pitch_link.STL
+[0.579s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link11_R.STL
+[0.579s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_index_intermediate.STL
+[0.579s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_thumb_proximal_base.STL
+[0.579s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_middle_proximal.STL
+[0.580s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_A_rod_link.STL
+[0.580s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_shoulder_pitch_link.STL
+[0.581s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_hip_yaw_link.STL
+[0.582s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link16_L.STL
+[0.582s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_middle_proximal.STL
+[0.583s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_ring_intermediate.STL
+[0.583s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_ankle_A_link.STL
+[0.583s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link13_R.STL
+[0.584s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_middle_intermediate.STL
+[0.584s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_thumb_proximal.STL
+[0.585s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/R_index_proximal.STL
+[0.585s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link14_R.STL
+[0.585s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/right_wrist_pitch_link.STL
+[0.586s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/L_index_proximal.STL
+[0.586s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/link14_L.STL
+[0.586s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_wrist_roll_link.STL
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/models/unitree_h1_2/meshes/left_ankle_A_rod_link.STL
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.dsv
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.sh
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ament_index/resource_index/package_run_dependencies/ros_gz_description
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ament_index/resource_index/parent_prefix_path/ros_gz_description
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.sh
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.dsv
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/path.sh
+[0.588s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/environment/path.dsv
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/local_setup.bash
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/local_setup.sh
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/local_setup.zsh
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/local_setup.dsv
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/package.dsv
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ament_index/resource_index/packages/ros_gz_description
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig.cmake
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig-version.cmake
+[0.589s] -- Installing: /home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/package.xml
+[0.591s] Invoked command in '/home/jiawen/h12project_ws/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jiawen/h12project_ws/build/ros_gz_description

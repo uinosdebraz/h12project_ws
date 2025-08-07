@@ -1,0 +1,44 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ros_gz_description: 0.0.0 (/home/jiawen/h12project_ws/install/ros_gz_description/share/ros_gz_description/cmake)
+-- Found ros_gz_gazebo: 0.0.0 (/home/jiawen/h12project_ws/install/ros_gz_gazebo/share/ros_gz_gazebo/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jiawen/h12project_ws/build/ros_gz_bringup
+-- Install configuration: ""
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/launch
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/launch/unitree.launch.py
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/launch/diff_drive.launch.py
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/launch/rrbot_setup.launch.py
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/config
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/config/diff_drive.rviz
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/config/rrbot.rviz
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/config/ros_gz_bridge.yaml
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ament_index/resource_index/package_run_dependencies/ros_gz_bringup
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ament_index/resource_index/parent_prefix_path/ros_gz_bringup
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/environment/ament_prefix_path.sh
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/environment/path.sh
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/environment/path.dsv
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/local_setup.bash
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/local_setup.sh
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/local_setup.zsh
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/local_setup.dsv
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/package.dsv
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ament_index/resource_index/packages/ros_gz_bringup
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/cmake/ros_gz_bringupConfig.cmake
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/cmake/ros_gz_bringupConfig-version.cmake
+-- Installing: /home/jiawen/h12project_ws/install/ros_gz_bringup/share/ros_gz_bringup/package.xml

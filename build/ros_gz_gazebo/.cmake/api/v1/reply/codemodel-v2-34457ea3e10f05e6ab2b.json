@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-47467f4be16148d12090.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ros_gz_gazebo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicSystem-0388b352967964e2b931.json",
+					"name" : "BasicSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FullSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FullSystem-84653ac0e77ff0a43c61.json",
+					"name" : "FullSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros_gz_gazebo_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros_gz_gazebo_uninstall-c4b6586f4f8b121b2dcc.json",
+					"name" : "ros_gz_gazebo_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b0e614715e659e8e1da9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jiawen/h12project_ws/build/ros_gz_gazebo",
+		"source" : "/home/jiawen/h12project_ws/src/ros_gz/ros_gz_gazebo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
